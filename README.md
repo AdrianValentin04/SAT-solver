@@ -1,2 +1,2 @@
 # SAT-solver
-This repo contains a solver for Boolean Satisfiability Problem(SAT).
+This repo contains a solver for Boolean Satisfiability Problem(SAT), implemented in python.
